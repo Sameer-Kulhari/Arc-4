@@ -32,5 +32,6 @@ Add your macropad photos or PCB renders here:
 
 - ![Macropad Front](PCB/Top.png)
 - ![Macropad Back](PCB/Bottom.png)
+- ![Macropad Schematic](PCB/sch.png)
 
 
